@@ -1,2 +1,2 @@
 # buscador-NodeJS
-Buscador que muestrA información sobre bienes raíces, utilizando Node.js.
+Buscador que muestra información sobre bienes raíces, utilizando Node.js.
